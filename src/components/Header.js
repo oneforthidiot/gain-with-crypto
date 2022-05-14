@@ -49,7 +49,7 @@ function Header() {
               variant="h6"
               className={classes.title}
             >
-              Crypto Hunter
+              Gain With Crypto
             </Typography>
             {/* <Button color="inherit">Login</Button> */}
             <Select
