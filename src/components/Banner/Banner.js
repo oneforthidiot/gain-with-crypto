@@ -51,7 +51,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Stay up-to-date on the latest cryptocurrency prices with our real-time crypto price tracker. Track Bitcoin, Ethereum, Litecoin, and other top digital assets. Get alerts, charts, and analysis on the crypto market. 
+            Stay up-to-date on the latest cryptocurrency prices with our real-time crypto price tracker. Track Bitcoin, Ethereum, Litecoin, and other top digital assets. 
           </Typography>
         </div>
         <Carousel />
